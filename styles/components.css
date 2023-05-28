@@ -1,0 +1,9 @@
+@layer components {
+  .flex-center {
+    @apply flex items-center justify-center
+  }
+
+  .flex-column {
+    @apply flex flex-col justify-center items-center
+  }
+}
